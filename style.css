@@ -9,6 +9,10 @@ BODY {
   background-size: 3.3333333333vmin 3.3333333333vmin;
 }
 
+h1{
+  color: white;
+}
+
 .range {
   /* display: none; */
   position: absolute;
